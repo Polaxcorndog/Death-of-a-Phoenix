@@ -1,8 +1,7 @@
-owner = BDN
-controller = BDN
-add_core = TUR
-add_core = BDN
-add_core = ARM
+owner = MKN
+controller = MKN
+add_core = AZB
 add_core = KDS
+add_core = MKN
 trade_goods = iron
 life_rating = 35

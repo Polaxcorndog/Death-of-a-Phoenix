@@ -1,6 +1,6 @@
-owner = TRI
-controller = TUR
-add_core = TRI
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 trade_goods = fruit
 life_rating = 35
 terrain = plains

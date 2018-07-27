@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = CRO
-add_core = HUN
 trade_goods = iron
 life_rating = 35

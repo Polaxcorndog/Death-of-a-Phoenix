@@ -1,6 +1,6 @@
-owner = BNB
-controller = BNB
-add_core = TUR
+owner = MKN
+controller = MKN
+add_core = MKN
 add_core = HTY
 add_core = IRQ
 add_core = ASY

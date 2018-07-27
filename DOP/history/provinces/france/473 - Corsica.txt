@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+
 add_core = CRS
 trade_goods = fish
 life_rating = 34

@@ -1,5 +1,7 @@
-owner = SAR
-controller = SAR
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+
 add_core = SAR
 add_core = SRD
 add_core = ITA

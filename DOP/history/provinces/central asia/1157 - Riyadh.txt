@@ -1,6 +1,6 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = wool
 life_rating = 35
 terrain = semidesert

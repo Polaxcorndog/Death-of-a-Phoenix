@@ -1,6 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 trade_goods = grain
 life_rating = 10
 terrain = desert

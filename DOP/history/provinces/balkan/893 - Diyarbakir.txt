@@ -1,6 +1,7 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = MKN
+controller = MKN
+add_core = AZB
 add_core = KDS
+add_core = MKN
 trade_goods = iron
 life_rating = 35

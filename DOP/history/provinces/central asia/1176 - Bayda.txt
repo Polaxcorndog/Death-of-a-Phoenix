@@ -1,9 +1,7 @@
-owner = FDL
-controller = FDL
-add_core = KTH
-add_core = MHR
-add_core = FDL
-add_core = LHJ
+owner = HDJ
+controller = HDJ
+add_core = HDJ
+add_core = YEM
 trade_goods = fish
 life_rating = 32
 terrain = semidesert
