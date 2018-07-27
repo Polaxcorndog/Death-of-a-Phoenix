@@ -1,6 +1,5 @@
-owner = TUS
-controller = TUS
-add_core = TUS
+owner = AUS
+controller = AUS
 add_core = VEN
 trade_goods = fruit
 life_rating = 40

@@ -1,6 +1,7 @@
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner = MKN
+controller = MKN
+add_core = AZB
 add_core = KDS
+add_core = MKN
 trade_goods = iron
 life_rating = 35

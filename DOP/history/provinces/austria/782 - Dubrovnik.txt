@@ -1,7 +1,7 @@
 owner = BYZ
 controller = BYZ
 add_core = BYZ
-
-add_core = CRO
+add_core = DLM
+add_core = VEN
 trade_goods = fish
 life_rating = 35
