@@ -1,7 +1,0 @@
-owner = BYZ
-controller = BYZ
-add_core = BYZ
-add_core = CRO
-trade_goods = wool
-life_rating = 35
-1861.1.1 = { railroad = 2 }
