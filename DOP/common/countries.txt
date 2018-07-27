@@ -7,16 +7,10 @@ REB 	= 	"countries/rebels.txt"
 FIR		="countries/Federal Iberian Republic.txt"
 ASI		="countries/Asturias.txt"
 ANL		="countries/Andalusia.txt"
-<<<<<<< HEAD
 BRI     ="countries/Briansk.txt"
 MUS     ="countries/Muscovy.txt"
 TVR     ="countries/Tver.txt"
-=======
-MUS		="countries/Muscovy.txt"
-BRI		="countries/Briansk.txt"
-TVR		="countries/Tver.txt"
 
->>>>>>> parent of d87064f... bug edit
 
 
 ##HPM
