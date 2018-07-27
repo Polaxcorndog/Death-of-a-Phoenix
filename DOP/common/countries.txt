@@ -7,7 +7,9 @@ REB 	= 	"countries/rebels.txt"
 FIR		="countries/Federal Iberian Republic.txt"
 ASI		="countries/Asturias.txt"
 ANL		="countries/Andalusia.txt"
-
+BRI     ="countries/Briansk.txt"
+MUS     ="countries/Muscovy.txt"
+TVR     ="countries/Tver.txt"
 
 ##HPM
 PPG		="countries/Papua New Guinea.txt"
