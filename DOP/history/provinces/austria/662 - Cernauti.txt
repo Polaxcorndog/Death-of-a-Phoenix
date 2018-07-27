@@ -1,8 +1,7 @@
-owner = AUS
-controller = AUS
-add_core = ROM
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = RUT
 add_core = MOL
-add_core = BKV
 trade_goods = fruit
 life_rating = 35
