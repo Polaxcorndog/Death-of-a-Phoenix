@@ -1,12 +1,12 @@
 capital = 2172
 primary_culture = mexican
 religion = catholic
-government = presidential_dictatorship
+government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.03
 non_state_culture_literacy = 0.01
-civilized = yes
+civilized = no
 prestige = 3
 
 
@@ -33,7 +33,8 @@ school_reforms = no_schools
 conscription = one_year_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
@@ -57,25 +58,17 @@ govt_flag = {
 
 set_country_flag = new_world_nation
 
+foreign_artillery = yes_foreign_artillery
+foreign_weapons = yes_foreign_weapons
+
 # Technologies
-post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-private_banks = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-enlightenment_thought = 1
-piston_steam_engine = 1
-mechanical_production = 1
 
 # Inventions
 
-#Starting Consciousness
-consciousness = 2
+# Starting Consciousness
+consciousness = 0
 nonstate_consciousness = 0
 
 oob = "MEX_oob.txt"

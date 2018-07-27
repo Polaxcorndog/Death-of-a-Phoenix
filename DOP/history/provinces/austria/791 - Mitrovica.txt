@@ -1,6 +1,5 @@
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner = AUS
+controller = AUS
 add_core = SER
 add_core = HUN
 trade_goods = timber
