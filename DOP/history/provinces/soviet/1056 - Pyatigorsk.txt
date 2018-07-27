@@ -1,6 +1,5 @@
-owner = GEO
-controller = GEO
-add_core = GEO
+owner = RUS
+controller = RUS
 add_core = CIR
 trade_goods = grain
 life_rating = 35

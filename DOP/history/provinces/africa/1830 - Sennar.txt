@@ -1,5 +1,6 @@
-owner = SHK
-controller = SHK
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = SHK
 add_core = SUD
 trade_goods = cattle

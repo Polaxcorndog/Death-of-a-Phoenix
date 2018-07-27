@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = FIR
+controller = FIR
+add_core = FIR
 add_core = SPA
 trade_goods = cattle
 life_rating = 40

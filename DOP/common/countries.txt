@@ -3,6 +3,11 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
+#DOTP
+FIR		="countries/Federal Iberian Republic.txt"
+ASI		="countries/Asturias.txt"
+ANL		="countries/Andalusia.txt"
+
 ##HPM
 PPG		="countries/Papua New Guinea.txt"
 VTU		="countries/Vanuatu.txt" 

@@ -1,9 +1,6 @@
-owner = UCA
-
-controller = UCA
-
-add_core = UCA
-add_core = GUA
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = coffee
 life_rating = 31
 1861.1.1 = {

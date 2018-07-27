@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = ASI
+controller = ASI
+add_core = ASI
 add_core = SPA
 trade_goods = cattle
 life_rating = 35

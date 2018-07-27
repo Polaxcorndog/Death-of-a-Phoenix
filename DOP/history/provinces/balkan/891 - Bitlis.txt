@@ -1,7 +1,6 @@
-owner = MKN
-controller = MKN
-add_core = AZB
-add_core = MKN
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = ARM
 add_core = BTL
 add_core = KDS

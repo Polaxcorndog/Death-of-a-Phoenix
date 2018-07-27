@@ -1,7 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
-add_core = COL
+owner = LSK
+controller = LSK
+add_core = LSK
 colonial = 2
 trade_goods = cattle
 life_rating = 35

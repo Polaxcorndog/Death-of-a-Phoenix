@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = FIR
+controller = FIR
 add_core = SPA
 add_core = CAT
 trade_goods = cattle

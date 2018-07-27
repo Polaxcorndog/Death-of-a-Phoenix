@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = FIR
+controller = FIR
+add_core = FIR
 add_core = SPA
 add_core = BSQ
 trade_goods = fruit

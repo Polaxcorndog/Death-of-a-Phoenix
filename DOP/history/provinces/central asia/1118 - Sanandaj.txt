@@ -1,5 +1,5 @@
-owner = PER
-controller = PER
+owner = RDL
+controller = RDL
 add_core = PER
 add_core = RDL
 add_core = KDS

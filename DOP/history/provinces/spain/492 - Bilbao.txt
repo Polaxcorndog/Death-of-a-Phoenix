@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = ASI
+controller = ASI
+add_core = ASI
 add_core = SPA
 add_core = BSQ
 trade_goods = iron

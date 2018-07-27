@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = FIR
+controller = FIR
+add_core = FIR
+add_core = SPA
 terrain = urban
 trade_goods = fish
 life_rating = 35
