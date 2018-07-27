@@ -1,5 +1,5 @@
-owner = POL
-controller = POL
+owner = AUS
+controller = AUS
 add_core = POL
 add_core = GLM
 trade_goods = coal

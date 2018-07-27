@@ -1,5 +1,6 @@
-owner = TIG
-controller = TIG
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = ETH
 add_core = TIG
 trade_goods = fruit

@@ -1,6 +1,6 @@
-owner = MKN
-controller = MKN
-add_core = MKN
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = BDN
 add_core = KDS
 trade_goods = fruit
