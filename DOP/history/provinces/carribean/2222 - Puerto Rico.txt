@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = PRI
+owner = FIR
+controller = FIR
+add_core = FIR
 trade_goods = coffee
 life_rating = 35
 colonial = 2
