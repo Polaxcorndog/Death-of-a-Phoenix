@@ -1,6 +1,6 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = FIR
+controller = FIR
+add_core = FIR
 trade_goods = fish
 life_rating = 30
 terrain = new_world_plains

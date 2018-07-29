@@ -1,7 +1,7 @@
-owner = HAI
-controller = HAI
+owner = CUB
+controller = CUB
+add_core = CUB
 add_core = HAI
-add_core = DOM
 trade_goods = tobacco
 life_rating = 35
 1861.1.1 = {
