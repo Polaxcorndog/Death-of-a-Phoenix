@@ -1,11 +1,11 @@
-substate = {
+vassal = {
 	first = FIR
 	second = ANL
 	start_date = 1815.1.1
 	end_date = 1857.1.1
 }
 
-substate = {
+vassal = {
 	first = FIR
 	second = ASI
 	start_date = 1815.1.1
