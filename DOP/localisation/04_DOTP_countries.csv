@@ -11,10 +11,9 @@ ANL_ADJ;Andalusian;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MEX;Aztec Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MEX_ADJ;Mexica;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MEX_absolute_monarchy;Aztec Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-MEX_monarchy_ADJ;Mexica;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MEX_absolute_monarchy_ADJ;Mexica;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MEX_democracy;Anahuac Republic;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MEX_democracy_ADJ;Anahuaca;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-MEX_absolute_monarchy;Aztec Empire;;;;;;;;;x
 MEX_prussian_constitutionalism;Aztec Empire;;;;;;;;;x
 MEX_hms_government;Anahuac Empire;;;;;;;;;x
 CUB;Carribbean Republic;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -32,10 +31,9 @@ TEX_hms_government;New World Kingdom;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;
 BSQ;Aberriaberria;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BSQ_ADJ;Euskotar;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BSQ_absolute_monarchy;Euskotarrak Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BSQ_monarchy_ADJ;Euskotar;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BSQ_absolute_monarchy_ADJ;Euskotar;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BSQ_democracy;Euskotarrak Republic;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 BSQ_democracy_ADJ;Euskotar;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
-BSQ_absolute_monarchy;Euskotarrak Empire;;;;;;;;;x
 BSQ_prussian_constitutionalism;Euskotarrak Empire;;;;;;;;;x
 BSQ_hms_government;Euskotarrak Empire;;;;;;;;;x
 BRI;Briansk;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -44,3 +42,34 @@ TVR;Tver;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 TVR_ADJ;Tverian;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MUS;Muscovy;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MUS_ADJ;Muscovite;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BYZ;Empire of the Romans;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BYZ_ADJ;Roman;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BYZ_absolute_monarchy;Empire of the Romans;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BYZ_hms_government;Empire of the Romans;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU;Inca;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_ADJ;Incan;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_absolute_monarchy;Incan Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_prussian_constitutionalism;Incan Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_hms_government;Andean Kingdom;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_hms_government_ADJ;Andean;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_democracy;Andean Republic;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_democracy_ADJ;Andean;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_fascist;The Andean State;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_fascist_ADJ;Andean;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_proletarian_dictatorship;Andean Peoples' Democratic Republic;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PEU_proletarian_dictatorship_ADJ;Andean;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GUY;New Iberia Republic;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GUY;New Iberian;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GUY_democracy;New Iberia Republic;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GUY_absolute_monarchy;New Iberia Kingdom;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GUY_prussian_constitutionalism;New Iberia Kingdom;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GUY_hms_government;New Iberia Kingdom;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRZ;Brasilia;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRZ_ADJ;Brasilian;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRZ_monarchy;Brasilian Empire;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
+BRZ_absolute_monarchy;Brasilian Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRZ_prussian_constitutionalism;Brasilian Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRZ_hms_government;Brasilian Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRZ_democracy;Brasilian Republic;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRZ_fascist;New Roman Empire;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRZ_proletarian_dictatorship;Syndicated Districts of Brasilia;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;

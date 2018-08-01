@@ -1,4 +1,7 @@
-add_core = PTG
+owner = ARG
+controller = ARG
+add_core = ARG
+colonial = 2
 trade_goods = wool
 terrain = steppe
 life_rating = 15

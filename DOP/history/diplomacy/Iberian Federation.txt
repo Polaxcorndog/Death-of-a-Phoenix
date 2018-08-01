@@ -11,3 +11,10 @@ substate = {
 	start_date = 1815.1.1
 	end_date = 1857.1.1
 }
+
+substate = {
+	first = FIR
+	second = GUY
+	start_date = 1815.1.1
+	end_date = 1857.1.1
+}

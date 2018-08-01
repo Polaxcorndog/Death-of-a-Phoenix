@@ -1,2 +1,2 @@
-trade_goods = cattleterrain = savanna
+owner = ARGcontroller = ARGadd_core = ARGcolonial = 2trade_goods = cattleterrain = savanna
 life_rating = 15
