@@ -1,7 +1,8 @@
-owner = BRZ
-controller = BRZ
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+colonial = 2
 add_core = BRZ
-add_core = PNB
 trade_goods = fruit
 terrain = farmlands
 life_rating = 35

@@ -1,1 +1,1 @@
-owner = BRZcontroller = BRZadd_core = BRZtrade_goods = fruitlife_rating = 31
+owner = BYZcontroller = BYZadd_core = BYZcolonial = 2add_core = BRZtrade_goods = fruitlife_rating = 31

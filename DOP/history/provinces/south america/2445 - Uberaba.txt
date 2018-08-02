@@ -1,5 +1,7 @@
-owner = BRZ
-controller = BRZ
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+colonial = 2
 add_core = BRZ
 trade_goods = fruit
 terrain = jungle
