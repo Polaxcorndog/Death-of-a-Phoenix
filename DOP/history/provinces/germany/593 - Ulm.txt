@@ -1,7 +1,7 @@
-owner = WUR
-controller = WUR
+owner = SWI
+controller = SWI
+add_core = SWI
 add_core = WUR
-add_core = GER
 trade_goods = grain
 life_rating = 40
 1861.1.1 = { railroad = 3 }

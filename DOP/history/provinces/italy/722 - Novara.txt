@@ -1,5 +1,5 @@
-owner = SAR
-controller = SAR
+owner = SWI
+controller = SWI
 add_core = SAR
 add_core = ITA
 trade_goods = silk

@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
+owner = ENG
+controller = ENG
 add_core = FRA
+add_core = ENG
 trade_goods = fish
 life_rating = 31
 fort = 2

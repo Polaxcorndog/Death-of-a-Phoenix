@@ -1,6 +1,7 @@
-owner = NOR
-controller = NOR
+owner = SWE
+controller = SWE
 add_core = NOR
+add_core = SWE
 trade_goods = fish
 life_rating = 40
 #state_building = {
